@@ -1,0 +1,19 @@
+{
+    "@@locale":"en",
+    "helloWorld":"Hello World",
+    "eslogan":"Big thinks to big people",
+    "bienvenida":"Hello!",
+    "lista":"List",
+    "cancelar":"Cancel",
+    "textoeliminar":"Do you wanna delete?",
+    "aceptar":"Acept",
+    "user":"Hello",
+    "eliminar":"Delete",
+    "ciudades":"List of cityes",
+    "viajes":"List of travels",
+    "emaillogin":"Email",
+    "passwordlogin":"Password",
+    "warninglogin7car":"Must be have 7 caracters",
+    "warnignloginfaltancar":"missing caracters",
+    "warnignlogintexto":"Insert text..."
+}

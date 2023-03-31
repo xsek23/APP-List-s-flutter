@@ -1,0 +1,19 @@
+{
+    "@@locale":"es",
+    "holamundo":"Hola Mundo",
+    "eslogan":"Grandes cosas para grandes personas",
+    "bienvenida":"Bienvenido!",
+    "lista":"Lista",
+    "cancelar":"Cancelar",
+    "textoeliminar":"Quieres eliminarlo?",
+    "aceptar":"Aceptar",
+    "user":"Hola",
+    "eliminar":"Eliminar",
+    "ciudades": "Lista de ciudades",
+    "viajes":"Lista de viajes",
+    "emaillogin":"Correo",
+    "passwordlogin":"Contraseña",
+    "warninglogin7car":"Tiene que tener minimo 7 caracteres",
+    "warnignloginfaltancar":"Faltan caracteres",
+    "warnignlogintexto":"Inserta texto..."
+}
